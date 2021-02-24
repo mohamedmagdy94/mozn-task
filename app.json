@@ -1,0 +1,12 @@
+{
+  "name": "MoznTask",
+  "displayName": "MoznTask",
+  "expo": {
+    "name": "MoznTask",
+    "slug": "MoznTask",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
