@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "235948660880",
+    "project_id": "mozn-task",
+    "storage_bucket": "mozn-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235948660880:android:da725b62cfde68b8562015",
+        "android_client_info": {
+          "package_name": "com.mozntask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235948660880-mo4mk3iqaenf8ri5ltpnvm836hfift3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpe-pQ1RO6YijAyTNn_dL3bGUZyF5CKF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235948660880-mo4mk3iqaenf8ri5ltpnvm836hfift3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235948660880-uu1olfo3014cbad1f7r9o95e1gh9elnc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.name.MoznTask-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
