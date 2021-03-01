@@ -1,0 +1,4 @@
+export const FETCH_IMAGES = 'FETCH_IMAGES';
+export const ADD_IMAGE = 'ADD_IMAGE';
+export const SELECT_IMAGE = 'SELECT_IMAGE';
+export const CHOOSE_BLUR_VIEW_POINT = 'CHOOSE_BLUR_VIEW_POINT';
